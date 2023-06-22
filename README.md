@@ -1,6 +1,6 @@
 # AlarmClock-in-Seconds-
 # HOSTED LINK
-https://ashishranjan9ar.github.io/Alarm_Clock/
+ https://chandni-kumari-9.github.io/Alarm_Clock_/
 
 # Introduction:
 The project contains a Digital Alarm Clock where you can set as many alarms as you want. 
